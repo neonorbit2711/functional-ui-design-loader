@@ -15,3 +15,5 @@ namespace FastTunnel.Core.Config
         bool EnableForward { get; set; }
     }
 }
+
+// 8111e0
